@@ -1,5 +1,4 @@
 # mvopython
-Esse repositório está sendo criado como um presente para o Luiz do futuro.  Faça bom uso. Agregue valor a comunidade python e contribua positivamente aos novos integrantes. Está iniciativa é oriunda do ditado popular "Mente vazia, oficina do diabo", Logo pensei "Mente vazia, oficina de Python" (sigla: mvopython).
+Este repositório está sendo criado como um presente para o Luiz do futuro. Faça bom uso dele e contribua para a comunidade Python, agregando valor e ajudando os novos integrantes. Essa iniciativa foi inspirada no ditado popular 'Mente vazia, oficina do diabo', mas adaptada para 'Mente vazia, oficina de Python' (sigla: mvopython).
 
-
-Em construção ...
+Ainda está em construção...
